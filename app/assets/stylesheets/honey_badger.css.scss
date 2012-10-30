@@ -1,8 +1,8 @@
 @mixin corner-banner($color: #333) {
   &.corner-banner.honey-badger {
       position: absolute;
-      left: -52px;
-      top: 30px;
+      right: -66px;
+      bottom: 30px;
       display: block;
       width: 200px;
       background: $color;
